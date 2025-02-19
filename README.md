@@ -1,1 +1,1 @@
-adminpanel user : kim password :kim
+admin panel user : kim password :kim
